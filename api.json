@@ -1,0 +1,14 @@
+{
+  "activities": [
+    {
+      "activity": "123123",
+      "status": "some time",
+      "id": 1
+    },
+    {
+      "activity": "asdas",
+      "status": "some time",
+      "id": 2
+    }
+  ]
+}
